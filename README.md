@@ -64,7 +64,7 @@
     SSM Parameter Store 4
     
 #### CONCLUSION###
-    This is a successfully completed setting up of a VPC and running EC2 instances on your private # # #network and have the Application Load Balancer to route the traffic to       the instances.
+    This is a successfully completed setting up of a VPC and running EC2 instances on your private network and have the Application Load Balancer to route the traffic to           the instances.
     i also tested the NGINX server running on the EC2 instance.
 
   
